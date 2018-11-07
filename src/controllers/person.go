@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 	"github.com/google/uuid"
-	"../repositories"
+	"github.com/eotrokov/loft_api/src/repositories"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/render"
 )
