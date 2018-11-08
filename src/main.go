@@ -3,7 +3,8 @@ package main
 import (
 	"log"
 	"net/http"
-	"./controllers"
+	"github.com/eotrokov/loft_api/src/controllers"
+	//"./controllers"
 
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
