@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"log"
 	"fmt"
-	"../model"
+	"github.com/eotrokov/loft_api/src/model"
 	"github.com/google/uuid"
 	_ "github.com/lib/pq"
 )
